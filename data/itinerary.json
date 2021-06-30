@@ -1,0 +1,42 @@
+{
+    "itinerary":{
+        "flights": [
+        {
+            "departureTime":"09:30",
+            "arrivalTime":"11:30",
+            "date": "Jul 2",
+            "destination": "Mumbai",
+            "origin": "Delhi",
+            "confirmation": "3576859"
+        },
+        {
+            "departureTime":"05:50",
+            "arrivalTime":"07:55",
+            "date": "Jul 10",
+            "destination": "Delhi",
+            "origin": "Mumbai",
+            "confirmation": "3594859"
+        }
+    ],
+    "accomodation":[
+        {
+            "startDate": "Jul 2",
+            "endDate": "Jul 10",
+            "checkInTime": "12:00",
+            "checkOutTime": "07:00",
+            "name": "The Taj Mahal Palace", "address": "Apollo Bunder Road The Taj Mahal Palace, Colaba, 400001, Mumbai, India",
+            "phone": "XXX",
+            "confirmation": "35948hfbdfh59"
+        }
+    ],
+        "restaurants": [
+            {
+                "time": "19:00",
+                "date": "Jul 4",
+                "name" : "Fariyas Hotel Mumbai , Colaba",
+                "address":"25, Off Arthur Bunder Road, Colaba, Colaba, 400005 Mumbai, India",
+                "confirmation": "8754938"
+            }
+        ]
+    }
+}
